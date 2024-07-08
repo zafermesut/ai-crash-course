@@ -1,0 +1,23 @@
+{
+	"Courses":{
+		"0":"Data Science",
+		"1":"MLOps",
+		"2":"Big Data and Hadoop",
+    "3":"Cloud Computing",
+    "4":"CyberSecurity",
+	},
+	"Fee":{
+		"0":"18000",
+		"1":"20000",
+		"2":"15000",
+    "3":"10000",
+    "4":"10000"
+	},
+	"Duration":{
+		"0":"10 Days",
+		"1":"12 Days",
+		"2":"14 Days",
+    "3":"8 Days",
+    "4":"9 Days",
+	},
+}
