@@ -2,8 +2,8 @@ import streamlit as st
 import google.generativeai as genai
 from PIL import Image
 
-#api_key = 'YOUR_API_KEY'
-api_key = 'AIzaSyDNpp_u64U8mpeOmrpKrSUUOdptxyoxtQE'
+api_key = 'YOUR_API_KEY'
+
 genai.configure(api_key=api_key)
 
 st.title('Analyze Image with Google Gemini')
